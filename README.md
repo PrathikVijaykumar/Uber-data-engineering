@@ -26,6 +26,6 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 
 ## Data Model
-<img src="Uber data model.png">
+<img src="Uber data model.jpeg">
 
 
